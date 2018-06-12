@@ -1,2 +1,4 @@
-Finance_tracker
+Finance Tracker
 ===============
+
+Playing around with Ruby.
